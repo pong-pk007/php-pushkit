@@ -1,0 +1,14 @@
+{
+    "name": "pong_pk007/pushkit-demo",
+    "description": "send notification for VoIP to iOS Devices",
+    "license": "ipongdev",
+    "authors": [
+        {
+            "name": "Pongsathon Somjai",
+            "email": "pongsathon_pk_202@hotmail.com"
+        }
+    ],
+    "require": {
+        "edamov/pushok": "^0.14.1"
+    }
+}
